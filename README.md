@@ -1,14 +1,27 @@
-# ProjectsAnalysis of Heart Disease Prediction Dataset
+# Analysis of Heart Disease Prediction Dataset
 
 ## Introduction:
 World Health Organization has estimated 12 million deaths occur worldwide; every year due to Heart diseases. Half the deaths in the United States and other developed countries are due to cardio vascular diseases. The early prognosis of cardiovascular diseases can aid in making decisions on lifestyle changes in high-risk patients and in turn reduce the complications. This research intends to pinpoint the most relevant/risk factors of heart disease.
-Dataset
+
+## Dataset
 The dataset is publicly available on the Kaggle website, and it is from an ongoing cardiovascular study on residents of the town of Framingham, Massachusetts. The classification goal is to predict whether the patient has 10-year risk of future coronary heart disease (CHD). The dataset provides the patients’ information. It includes over 4,000 records and 15 attributes.
-Source
+
+## Source
 https://www.kaggle.com/amanajmera1/framingham-heart-study-dataset/data
 
 ## Tools & Libraries
-• Python • Jupyter Notebook • Pandas • NumPy • Seaborn • Logistic Regression • KNN • Ada Boost • Gradient Boost •XG Boost • Random Forest • Decision Tree •Stacking
+• Python • Jupyter Notebook • Pandas • NumPy • Seaborn
+
+## Machine Learning models
+1. Logistic Regression
+2. Decision Tree
+3. Random Forest
+4. Ada Boost
+5. Gradient Boost
+6. XG Boost
+7. KNN
+8. Stacking
+9. Naive Bayers
 
 ## Data Description
 • Sex: male or female (Nominal) (binary: “1” means “male”, “0” means “female”)
@@ -49,14 +62,17 @@ https://www.kaggle.com/amanajmera1/framingham-heart-study-dataset/data
 (binary: “1”, means “Yes”, “0” means “No”)
 
 
-
 ## Data Cleaning
 •	Null value treatment
 
 ## Analysis
 •	Visualization is done to check the distribution of each column in the dataset.
 
+•	Using the oversampling technique for the imbalanced dataset.
+
 •	Treating the null values based on the distributions.
 
 •	Used Different machine learning Algorithms to check which is the better model for the dataset.
+
+
 
