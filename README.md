@@ -73,3 +73,42 @@ https://www.kaggle.com/amanajmera1/framingham-heart-study-dataset/data
 •	Treating the null values based on the distributions.
 
 •	Used Different machine learning Algorithms to check which is the better model for the dataset.
+
+Random Forest
+Before hyperparameter tuning	After hyperparameter tuning
+Accuracy	AUC	Accuracy	AUC
+0.9103	0.9101	0.9108	0.9107
+XG Boost
+Before hyperparameter tuning	After hyperparameter tuning
+Accuracy	AUC	Accuracy	AUC
+0.8699	0.8696	0.8817	0.88144
+Gradient Boost
+Before hyperparameter tuning	After hyperparameter tuning
+Accuracy	AUC	Accuracy	AUC
+0.8733	0.87297	00875	0.8747
+Ada Boost
+Before hyperparameter tuning	After hyperparameter tuning
+Accuracy	AUC	Accuracy	AUC
+0.8441	0.8443	0.8677	0.8673
+Decision Tree
+Before hyperparameter tuning	After hyperparameter tuning
+Accuracy	AUC	Accuracy	AUC
+0.82230	0.822353	0.8099	0.8100
+## KNN
+# Before hyperparameter tuning
+Accuracy	     AUC
+0.80156	    0.8023	
+
+# After hyperparameter tuning
+Accuracy	     AUC
+0.83127	    0.83196
+
+## Logistic Regression
+Accuracy	     AUC
+0.6423	     0.6425
+## Naïve Bayes
+Accuracy      AUC
+0.61042    0.609364
+## Stacking
+Prediction
+0.89635
