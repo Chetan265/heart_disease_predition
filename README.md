@@ -74,6 +74,8 @@ https://www.kaggle.com/amanajmera1/framingham-heart-study-dataset/data
 
 •	Used Different machine learning Algorithms to check which is the better model for the dataset.
 
+## Predictions
+
 ## Random Forest
 ### Before hyperparameter tuning	
 Accuracy
