@@ -107,8 +107,16 @@ Accuracy	     AUC
 Accuracy	     AUC
 0.6423	     0.6425
 ## Naïve Bayes
-Accuracy      AUC
-0.61042    0.609364
+
+Accuracy 
+
+0.61042
+   
+ AUC
+ 
+0.609364
 ## Stacking
+
 Prediction
+
 0.89635
