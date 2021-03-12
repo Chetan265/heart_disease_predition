@@ -1,6 +1,6 @@
 # Analysis of Heart Disease Prediction Dataset
 
-## Introduction:
+## Introduction
 World Health Organization has estimated 12 million deaths occur worldwide; every year due to Heart diseases. Half the deaths in the United States and other developed countries are due to cardio vascular diseases. The early prognosis of cardiovascular diseases can aid in making decisions on lifestyle changes in high-risk patients and in turn reduce the complications. This research intends to pinpoint the most relevant/risk factors of heart disease.
 
 ## Dataset
@@ -73,6 +73,3 @@ https://www.kaggle.com/amanajmera1/framingham-heart-study-dataset/data
 •	Treating the null values based on the distributions.
 
 •	Used Different machine learning Algorithms to check which is the better model for the dataset.
-
-
-
