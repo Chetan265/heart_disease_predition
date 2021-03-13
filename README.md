@@ -80,103 +80,103 @@ https://www.kaggle.com/amanajmera1/framingham-heart-study-dataset/data
 ### Before hyperparameter tuning	
 Accuracy
 
-0.9103
+0.9103139013452914
 
 AUC
 
-0.9101
+0.9101663046975547
 
 ### After hyperparameter tuning
 
 Accuracy
  
-0.9108
+0.905829596412556
 
 AUC
 
-0.9107
+0.9056919642857143
 
 ## XG Boost
 
 ### Before hyperparameter tuning	
 Accuracy
 
-0.8699		
+0.8699551569506726	
 
 AUC
 
-0.8696
+0.8696157094594594
 
 ### After hyperparameter tuning
 
 Accuracy
 
-0.8817	
+0.8817264573991032	
 
 AUC
 
-0.88144
+0.8814450611325612
 
 ### Gradient Boost
 
 ### Before hyperparameter tuning	
 Accuracy
 
-0.8733	
+0.8733183856502242	
 
 AUC
 
-0.87297
+0.8729790057915059
 
 ### After hyperparameter tuning
 
 Accuracy
 
-0.875
+0.875560538116592
 
 AUC
 
-0.8747
+0.8752815315315315
 		
 ## Ada Boost
 ### Before hyperparameter tuning	
 Accuracy
 
-0.8441
+0.844170403587444
 
 AUC
 
-0.8443
+0.8438857384169883
 
 ### After hyperparameter tuning
 
 Accuracy
 
-0.8677
+0.8677130044843049
 
 AUC
 
-0.8673
+0.8673835666023166
 		
 ## Decision Tree
 ### Before hyperparameter tuning	
 Accuracy
 
-0.82230
+0.8223094170403588
 
 AUC
 
-0.822353
+0.8223536036036037
 
 ### After hyperparameter tuning
 
 Accuracy
 
-0.8099
+0.8307174887892377
 
 AUC
 
-0.8100
+0.8307744128056629
 
 		
 ## KNN
@@ -184,43 +184,66 @@ AUC
 
 Accuracy
 
-0.80156	    
+0.8015695067264574    
 
 AUC
 
-0.8023	
+0.8023246460746459	
 
 ### After hyperparameter tuning
 Accuracy
 
-0.83127		    
+0.8312780269058296	    
 
 AUC
 
-0.83196  
+0.8319608671171171
 
 ## Logistic Regression
 
 Accuracy
 
-0.6423	  
+0.6423766816143498	  
 
 AUC
 
-0.6425
+0.6425655566280567
 
 
 ## Naïve Bayes
 
 Accuracy 
 
-0.61042
+0.6104260089686099
    
  AUC
  
-0.609364
+0.6093649453024452
+
 ## Stacking
 
 Prediction
 
-0.89635
+0.896358543417367
+
+
+## SVC
+
+### Before hyperparameter tuning
+
+Accuracy
+
+0.6647982062780269   
+
+AUC
+
+0.6650880791505792	
+
+### After hyperparameter tuning
+Accuracy
+
+0.7634529147982063	    
+
+AUC
+
+0.7637598536036037
