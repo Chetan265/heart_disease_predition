@@ -247,3 +247,7 @@ Accuracy
 AUC
 
 0.7637598536036037
+
+
+## Result
+Random forest is best model compare to other models.
